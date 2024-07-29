@@ -1,0 +1,24 @@
+@import './../../utils/variables';
+
+.result {
+  display: flex;
+  gap: 15px;
+}
+
+.circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  background-color: #ddd;
+  border-radius: 50%;
+}
+
+.isSuccess {
+  background-color: $success-color;
+}
+
+.isError {
+  background-color: $error-color;
+}

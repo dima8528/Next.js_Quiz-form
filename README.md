@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Quiz Form by Dmytro Haidash
+
+This is a web programming quiz form that, is written on the Next.js framework and represented as a one-page application with 3 questions, answering which you can both see the result and retake the test.
+
+You can find the [DEMO here](https://next-js-quiz-form.vercel.app/)
 
 ## Getting Started
 
